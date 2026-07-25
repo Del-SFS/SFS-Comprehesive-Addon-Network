@@ -1,17 +1,16 @@
 using System;
-using System.Windows.Forms;
+using System.Collections.Generic;
 
 namespace SCAN
 {
-    internal static class Program
+    public class Program
     {
-        [STAThread]
-        static void Main()
+        static void Main(string[] args)
         {
-            ApplicationConfiguration.Initialize();
+            //Bem-Vindo(a)
+            Console.WriteLine($"Welcome to SCAN, future Installer and Manager Mods for SFS! :)");
+            Console.WriteLine($"Version - 0.0.1b");
             
-            // Executa a MainForm (UI)
-            Application.Run(new UI.MainForm());
         }
     }
 }
