@@ -9,7 +9,7 @@ namespace SCAN
         {
             //Bem-Vindo(a)
             Console.WriteLine($"Welcome to SCAN, future Installer and Manager Mods for SFS! :)");
-            Console.WriteLine($"Version - 0.0.1b");
+            Console.WriteLine($"Version - 0.0.1-beta");
             
         }
     }
