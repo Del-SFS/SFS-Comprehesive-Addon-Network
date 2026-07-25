@@ -73,8 +73,8 @@ flowchart TD
 🛠️ = Em progresso     
 
 **lista:**
-- 🛠️ Versão Console    
-- 📅 Interface gráfica (WPF)   
+- ✅ Versão Console    
+- 📅 Interface gráfica (Avalonia UI)   
 - 📅 API REST para integração  
 - 📅 Sistema de cache local
 - 📅 Motor de resolução de dependências
@@ -142,4 +142,3 @@ Este projeto **NÃO é afiliado** aos desenvolvedores oficiais.
 - **Issues**: [GitHub Issues](https://github.com/Del-SFS/SFS-Comprehesive-Addon-Network/issues)
 
 **Made with ❤️ by Del**
-
