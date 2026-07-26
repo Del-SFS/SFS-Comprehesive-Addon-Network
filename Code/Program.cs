@@ -12,9 +12,9 @@ namespace SCAN
             
             string nomeMod = "TextureRealist";
             int versaoMod = 1;
-            int pesoMB = 56
+            int pesoMB = 56;
 
-            Console.WriteLine($"Mod: {nomeMod} (Versão: {versaMod}) - Tamanho: {pesoMB}MB");
+            Console.WriteLine($"Mod: {nomeMod} (Versão: {versaoMod}) - Tamanho: {pesoMB}MB");
             
 
             // não deixa fechar
