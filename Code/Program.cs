@@ -1,13 +1,24 @@
+using Microsoft.Win32;
 using System;
-using System.Collections.Generic;
 
 namespace SCAN
 {
-    public class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            //Esperando...
+            /* welcome masagen
+            Console.WriteLine($"Bem-Vindo ao SCAN - Gerenciador de Mods para o SFS!");*/
+            
+            string nomeMod = "TextureRealist";
+            int versaoMod = 1;
+            int pesoMB = 56
+
+            Console.WriteLine($"Mod: {nomeMod} (Versão: {versaMod}) - Tamanho: {pesoMB}MB");
+            
+
+            // não deixa fechar
+            Console.ReadLine();
         }
     }
 }
